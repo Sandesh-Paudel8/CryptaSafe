@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743206282054",
+    "project_id": "cryptasafe",
+    "storage_bucket": "cryptasafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743206282054:android:16fbbeebb24321c94efb47",
+        "android_client_info": {
+          "package_name": "com.example.cryptasafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0HpB8A9uwELQ_p46_qht1YtkIMYQniI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
