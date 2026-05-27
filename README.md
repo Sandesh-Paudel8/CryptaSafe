@@ -331,12 +331,12 @@ Settings → Change master password
 The default secret code to open the vault from the calculator is:
 
 ```
-1337#
+1337.
 ```
 
 To change it, open `lib/screens/calculator_screen.dart` and edit:
 ```dart
-static const String _secretCode = '1337#';
+static const String _secretCode = '1337.';
 ```
 
 Change it to any sequence of numbers and symbols available on the calculator keypad.
